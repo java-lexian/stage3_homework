@@ -1,9 +1,9 @@
 # stage3_homework
 ## 阶段三：MyBatis-Plubs框架应用（2020/2/14）
-作业题目
-使用SpringBoot集成MyBatis-Plus，实现数据表操作（CRUD）
+### 作业题目
+#### 使用`SpringBoot`集成`MyBatis-Plus`，实现数据表操作（`CRUD`）
 作业要求
-1. SpringBoot集成MyBatis-Plus
+1. `SpringBoot`集成`MyBatis-Plus`
 2. 根据数据表使用代码生成器完成实体组件、Mapper组件（包含XML）、Service组件、Controller组件的自动生成
 3. 基于Service CRUD接口完成数据操作（含条件查询，条件自定义）
   代码生成器的id没有生成
