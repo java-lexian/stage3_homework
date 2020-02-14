@@ -1,0 +1,11 @@
+2020-02-14 16:20:05,167 INFO (StartupInfoLogger.java:55)- Starting DemoApplication on dell-pc with PID 37404 (started by dell in D:\研究生\研一\项目实训\hanjia\stage3\jd)
+2020-02-14 16:20:05,183 DEBUG (StartupInfoLogger.java:56)- Running with Spring Boot v2.2.1.RELEASE, Spring v5.2.1.RELEASE
+2020-02-14 16:20:05,186 INFO (SpringApplication.java:651)- No active profile set, falling back to default profiles: default
+2020-02-14 16:20:57,136 INFO (StartupInfoLogger.java:55)- Starting DemoApplication on dell-pc with PID 20124 (started by dell in D:\研究生\研一\项目实训\hanjia\stage3\jd)
+2020-02-14 16:20:57,148 DEBUG (StartupInfoLogger.java:56)- Running with Spring Boot v2.2.1.RELEASE, Spring v5.2.1.RELEASE
+2020-02-14 16:20:57,149 INFO (SpringApplication.java:651)- No active profile set, falling back to default profiles: default
+2020-02-14 16:21:09,592 DEBUG (MyBatisPlusConfig.java:24)- 注册分页插件
+2020-02-14 16:21:13,912 INFO (StartupInfoLogger.java:61)- Started DemoApplication in 18.434 seconds (JVM running for 21.401)
+2020-02-14 16:40:52,643 INFO (StartupInfoLogger.java:55)- Starting DemoApplication on dell-pc with PID 40508 (started by dell in D:\研究生\研一\项目实训\hanjia\stage3\jd)
+2020-02-14 16:40:52,767 DEBUG (StartupInfoLogger.java:56)- Running with Spring Boot v2.2.1.RELEASE, Spring v5.2.1.RELEASE
+2020-02-14 16:40:52,769 INFO (SpringApplication.java:651)- No active profile set, falling back to default profiles: default

@@ -1,0 +1,12 @@
+2020-02-14 16:42:57,983 DEBUG (BaseJdbcLogger.java:159)- <==      Total: 3
+2020-02-14 16:43:10,103 DEBUG (BaseJdbcLogger.java:159)- ==>  Preparing: UPDATE user SET username=? WHERE user_id=? 
+2020-02-14 16:43:10,345 DEBUG (BaseJdbcLogger.java:159)- ==> Parameters: test1(String), null
+2020-02-14 16:43:10,389 DEBUG (BaseJdbcLogger.java:159)- <==    Updates: 0
+2020-02-14 16:43:43,063 DEBUG (BaseJdbcLogger.java:159)- ==>  Preparing: UPDATE user SET username=? WHERE user_id=? 
+2020-02-14 16:43:43,067 DEBUG (BaseJdbcLogger.java:159)- ==> Parameters: test1(String), null
+2020-02-14 16:43:43,072 DEBUG (BaseJdbcLogger.java:159)- <==    Updates: 0
+2020-02-14 16:43:50,790 DEBUG (BaseJdbcLogger.java:159)- ==>  Preparing: UPDATE user SET username=? WHERE user_id=? 
+2020-02-14 16:43:50,793 DEBUG (BaseJdbcLogger.java:159)- ==> Parameters: test1(String), 9354(Integer)
+2020-02-14 16:43:50,964 DEBUG (BaseJdbcLogger.java:159)- <==    Updates: 1
+2020-02-14 16:44:39,464 DEBUG (BaseJdbcLogger.java:159)- ==>  Preparing: SELECT user_id,username,password,sex,age,email,phone,circle_id FROM user WHERE username = ? 
+2020-02-14 16:44:39,476 DEBUG (BaseJdbcLogger.java:159)- ==> Parameters: test1(String)

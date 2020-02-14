@@ -1,0 +1,12 @@
+2020-02-14 16:44:39,484 DEBUG (BaseJdbcLogger.java:159)- <==      Total: 1
+2020-02-14 16:45:09,012 DEBUG (BaseJdbcLogger.java:159)- ==>  Preparing: UPDATE user SET age=? WHERE username = ? 
+2020-02-14 16:45:09,021 DEBUG (BaseJdbcLogger.java:159)- ==> Parameters: 50(String), test1(String)
+2020-02-14 16:45:09,153 DEBUG (BaseJdbcLogger.java:159)- <==    Updates: 1
+2020-02-14 16:45:26,301 DEBUG (BaseJdbcLogger.java:159)- ==>  Preparing: SELECT COUNT(1) FROM user 
+2020-02-14 16:45:26,309 DEBUG (BaseJdbcLogger.java:159)- ==> Parameters: 
+2020-02-14 16:45:26,384 DEBUG (BaseJdbcLogger.java:159)- ==>  Preparing: SELECT user_id,username,password,sex,age,email,phone,circle_id FROM user LIMIT ?,? 
+2020-02-14 16:45:26,425 DEBUG (BaseJdbcLogger.java:159)- ==> Parameters: 0(Long), 1(Long)
+2020-02-14 16:45:26,431 DEBUG (BaseJdbcLogger.java:159)- <==      Total: 1
+2020-02-14 16:46:09,485 DEBUG (BaseJdbcLogger.java:159)- ==>  Preparing: DELETE FROM user WHERE user_id=? 
+2020-02-14 16:46:09,505 DEBUG (BaseJdbcLogger.java:159)- ==> Parameters: 9354(Integer)
+2020-02-14 16:46:09,767 DEBUG (BaseJdbcLogger.java:159)- <==    Updates: 1
